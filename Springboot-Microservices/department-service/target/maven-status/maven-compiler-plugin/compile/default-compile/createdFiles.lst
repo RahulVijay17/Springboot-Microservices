@@ -1,0 +1,3 @@
+net\microservices\departmentservice\exception\ResourceNotFoundException.class
+net\microservices\departmentservice\exception\ErrorDetails.class
+net\microservices\departmentservice\exception\GlobalExceptionHandler.class
